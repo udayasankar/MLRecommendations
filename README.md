@@ -1,11 +1,10 @@
 # MLRecommendations
-ML based recommendation systems sutdy materials
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Table with URL and Comments</title>
+    <title>ML based recommendation systems sutdy materials</title>
 </head>
 <body>
     <h1>ML Recommendation Materials</h1>
