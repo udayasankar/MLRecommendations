@@ -8,7 +8,7 @@ ML based recommendation systems sutdy materials
     <title>Table with URL and Comments</title>
 </head>
 <body>
-    <h1>Sample Table</h1>
+    <h1>ML Recommendation Materials</h1>
     <table style="width: 100%; border: 1px solid black; border-collapse: collapse;">
         <thead>
             <tr style="background-color: #f4f4f4;">
@@ -20,18 +20,8 @@ ML based recommendation systems sutdy materials
         <tbody>
             <tr>
                 <td style="border: 1px solid black; padding: 8px; text-align: center;">1</td>
-                <td style="border: 1px solid black; padding: 8px;"><a href="https://example.com" target="_blank">https://example.com</a></td>
+                <td style="border: 1px solid black; padding: 8px;"><a href="https://example.com" target="_blank">https://decodingml.substack.com/p/the-ultimate-recommender-system-framework?r=22l56n&utm_medium=ios&triedRedirect=true</a></td>
                 <td style="border: 1px solid black; padding: 8px;">This is the first comment.</td>
-            </tr>
-            <tr style="background-color: #f9f9f9;">
-                <td style="border: 1px solid black; padding: 8px; text-align: center;">2</td>
-                <td style="border: 1px solid black; padding: 8px;"><a href="https://anotherexample.com" target="_blank">https://anotherexample.com</a></td>
-                <td style="border: 1px solid black; padding: 8px;">This is the second comment.</td>
-            </tr>
-            <tr>
-                <td style="border: 1px solid black; padding: 8px; text-align: center;">3</td>
-                <td style="border: 1px solid black; padding: 8px;"><a href="https://yetanotherexample.com" target="_blank">https://yetanotherexample.com</a></td>
-                <td style="border: 1px solid black; padding: 8px;">This is the third comment.</td>
             </tr>
         </tbody>
     </table>
