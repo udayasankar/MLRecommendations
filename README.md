@@ -4,7 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ML based recommendation systems sutdy materials</title>
 </head>
 <body>
     <h1>ML Recommendation Materials</h1>
