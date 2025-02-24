@@ -1,4 +1,4 @@
-# MLRecommendations
+https://redis.io/blog/collaborative-filtering-how-to-build-a-recommender-system/
 <!DOCTYPE html>
 <html lang="en">
 <head>
